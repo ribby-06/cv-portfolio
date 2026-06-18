@@ -281,3 +281,16 @@ footer{
     }
 
 }
+
+.card p{
+    line-height:1.9;
+}
+
+.card h2{
+    margin-bottom:20px;
+    color:var(--accent);
+}
+
+.card:last-child p{
+    font-style:italic;
+}
